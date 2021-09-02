@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#contaner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#click{
+    width: 90px;
+    height: 35px;
+    border-radius: 20px;
+    color: white;
+    background-color: blue;
+}
